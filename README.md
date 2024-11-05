@@ -63,6 +63,11 @@ Project Elements:
 5. To control parallel execution and lessen synchronisation problems, use OpenMP directives.
 
 
+                                One feature that can significantly affect project performance:
+   Overhead in c++
+   The overhead is the cost, usually counted in time or memory usage. In case, we should limit it because it makes your program run slower and take more memory.
+   Serial and parallel in c++
+
                                                 Detailed Implementation
 
 
